@@ -18,12 +18,13 @@ Code is organized by video tutorials for easy navigation and learning progressio
 ## Prerequisites
 
 - Python 3.8+
-- OpenAI API key
 - Basic understanding of Python programming
+- UV Python Package Manager
+- Gemini API key (free) 
 
 ## YouTube Channel
 
-Watch the complete tutorial series on my YouTube channel where I break down each concept step by step.
+Watch the complete tutorial series on my YouTube channel where I break down each concept step by step in Urdu.
 
 **Channel:** [Huzair Ahmed Khan](https://www.youtube.com/@huzairahmedkhan650)
 
