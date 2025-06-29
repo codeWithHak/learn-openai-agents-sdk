@@ -1,4 +1,4 @@
-# OpenAI Agents SDK
+# Learn OpenAI Agents SDK (Python)
 
 This repo is a comprehensive resource for developers looking to master the OpenAI Agents SDK. Each folder corresponds to specific YouTube tutorials, making it easy to follow along and practice.
 
